@@ -1,0 +1,6 @@
+<acceptance-test-run title="Sample" name="sample" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="155" timestamp="2018-03-30T19:16:29.252+05:30" test-source="JUnit">
+  <user-story id="org.steps.BookFlightScenarioSteps" name="Book flight scenario steps" path="org.steps"/>
+  <tags>
+    <tag name="Book flight scenario steps" type="story"/>
+  </tags>
+</acceptance-test-run>

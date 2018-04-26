@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="org.steps.BookFlightScenarioSteps" skipped="0" tests="1" time="0.16" timestamp="2018-03-89 07:16:29"><testcase classname="org.steps.BookFlightScenarioSteps" name="Sample"><error message="net.serenitybdd.core.steps.Instrumented$InstrumentedBuilder cannot be cast to net.serenitybdd.screenplay.Performable" type="java.lang.ClassCastException">net.serenitybdd.core.steps.Instrumented$InstrumentedBuilder cannot be cast to net.serenitybdd.screenplay.Performable</error><system-err>net.serenitybdd.core.steps.Instrumented$InstrumentedBuilder cannot be cast to net.serenitybdd.screenplay.Performable&#13;
+org.tasks.NavigateTo.BookFlight(NavigateTo.java:36)&#13;
+org.steps.BookFlightScenarioSteps.sample(BookFlightScenarioSteps.java:42)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+</system-err></testcase></testsuite>

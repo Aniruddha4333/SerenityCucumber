@@ -1,0 +1,41 @@
+<acceptance-test-run title="Navigate to book a flight" name="Navigate to book a flight" description="" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="18077" timestamp="2018-03-30T19:14:55.366+05:30" session-id="26ac155bcae67329ed7bd8299cba49df">
+  <user-story id="navigate-emirates-scenarios" name="Navigate Emirates Scenarios" path="src/test/resources/features/newFeature.feature"/>
+  <tags>
+    <tag name="Navigate Emirates Scenarios" type="feature"/>
+  </tags>
+  <test-group name="Given when i Navigate to emirates home page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="f0364591514826968e46b6208478ca5d.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="9913">
+      <screenshots>
+        <screenshot image="249f2fab6cc8a2b507628912597350a4.png"/>
+      </screenshots>
+      <description>Opens home page</description>
+    </test-step>
+  </test-group>
+  <test-group name="When I  click on book a flight link" result="SUCCESS">
+    <screenshots>
+      <screenshot image="26be93b13348f35135fbca1884838580.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="3030">
+      <screenshots>
+        <screenshot image="eb59e1141239b7770d917d005ea1f4c5.png"/>
+        <screenshot image="c69b05afdad8d020095f26a858d73a98.png"/>
+      </screenshots>
+      <description>Click book flight</description>
+    </test-step>
+  </test-group>
+  <test-step result="SUCCESS" duration="590">
+    <screenshots>
+      <screenshot image="e2330738b0a49b2e1a55a5555ae98e69.png"/>
+    </screenshots>
+    <description>Then I should land on Search flights page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1476">
+    <screenshots>
+      <screenshot image="e2330738b0a49b2e1a55a5555ae98e69.png"/>
+    </screenshots>
+    <description>After test</description>
+  </test-step>
+</acceptance-test-run>
